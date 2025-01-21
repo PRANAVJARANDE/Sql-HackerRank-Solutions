@@ -1,0 +1,2 @@
+SELECT * FROM CITY as c
+WHERE c.population>100000 AND c.COUNTRYCODE='USA'
